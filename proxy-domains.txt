@@ -127,5 +127,5 @@ primevideo.org
 primevideo.tv
 pv-cdn.net
 spotify.com
-viu.com
+www.viu.com
 openconnect.netflix.com
